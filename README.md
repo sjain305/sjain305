@@ -1,4 +1,3 @@
-## Intro
 **Hello stranger!**
 
 You have stumbled upon my testing grounds, feel free to review and comment on my public repositories.
